@@ -1,2 +1,6 @@
-10
-1 2 3 2 1 4 2 5 3 1
+
+(14, 21, 30, '3632', 'A') A rocket_status 
+(14, 23, 52, '3632', 'B') B rocket_status 2:22
+(15, 0, 5, '3632', 'C') C rocket_status 8 + 5
+(50, 7, 25, '3632', 'A') A rocket_status 
+(50, 7, 26, '3632', 'C') C rocket_status 1
