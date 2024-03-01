@@ -5,5 +5,7 @@ max_p = 0
 for i in prices:
     if i >= max_p and s >= i:
         max_p = i
+    else:
+        break
 
 print(max_p)
